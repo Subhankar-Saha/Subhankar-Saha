@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:subhankarsaha2410@gmail.com">📧 Email</a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/subhankar-saha-2410">💼 LinkedIn</a> &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/subhankarsaha24">🏆 HackerRank</a>
 </p>
 
 ---
