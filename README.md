@@ -72,12 +72,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhankar-Saha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhankar-Saha&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subhankar-Saha&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
