@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:subhankarsaha2410@gmail.com">📧 Email</a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/subhankar-saha-2410">💼 LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/subhankarsaha24">🏆 HackerRank</a>
 </p>
 
 ---
@@ -50,14 +51,14 @@
 
 ## 🚀 Featured Projects
 
-### 🥗 [Fitkhao – Health & Nutrition Platform](https://fitkhao.com)
+### 🥗 [Fitkhao – Health & Nutrition Platform](https://fitkhao.com) &nbsp;|&nbsp; [Admin Portal](https://fitkhaoadminprod.z29.web.core.windows.net/)
 > Full-stack health platform with subscription management, diet plans & admin dashboards
 > 
 > `Angular` `Node.js` `PostgreSQL` `JWT` `REST API`
 
 ---
 
-### 📚 [PDAcademy – Multi-Tenant Learning Platform](https://pdacademy.co.in)
+### 📚 [PDAcademy – Multi-Tenant Learning Platform](https://pdacademy.in)
 > Subscription-based exam platform with dynamic exam rendering, tenant management & mobile app
 >
 > `Angular` `Node.js` `Sequelize` `PostgreSQL` `Capacitor`
@@ -71,10 +72,12 @@
 
 ---
 
-## 📊 Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subhankar-Saha&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhankar-Saha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhankar-Saha&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
