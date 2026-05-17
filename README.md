@@ -52,16 +52,38 @@
 ## 🚀 Featured Projects
 
 ### 🥗 [Fitkhao – Health & Nutrition Platform](https://fitkhao.com) &nbsp;|&nbsp; [Admin Portal](https://fitkhaoadminprod.z29.web.core.windows.net/)
-> Full-stack health platform with subscription management, diet plans & admin dashboards
-> 
-> `Angular` `Node.js` `PostgreSQL` `JWT` `REST API`
+
+A scalable food-tech platform where users get **nutritionist-guided personalized meal subscriptions** or can freely order from outlet menus — with full kitchen operations, delivery management, and health tracking in one unified system.
+
+- 🍱 Personalized meal subscription plans guided by nutritionists
+- 🛒 Free ordering from outlet menus alongside subscription model
+- 🚚 End-to-end kitchen operations & delivery management
+- 📊 Health tracking integrated into the user experience
+- 🔐 Subscription management, role-based auth & admin dashboards
+
+`Angular` `Node.js` `PostgreSQL` `JWT` `REST API`
 
 ---
 
 ### 📚 [PDAcademy – Multi-Tenant Learning Platform](https://pdacademy.in)
-> Subscription-based exam platform with dynamic exam rendering, tenant management & mobile app
->
-> `Angular` `Node.js` `Sequelize` `PostgreSQL` `Capacitor`
+
+A scalable **multi-tenant SaaS education platform** where multiple institutes and schools can onboard independently with fully isolated data — built for security, scalability, and ease of administration.
+
+**Architecture:**
+- 🗄️ Separate **MASTER DB** for tenants, subscriptions & super admins
+- 🗄️ Separate **APP DB** for users, exams, notes, subjects & results
+
+**Key Features:**
+- 🔐 Tenant-based authentication with JWT carrying `tenantId`
+- 🧱 Middleware-based tenant isolation across all requests
+- 👥 Role system: `SUPER_ADMIN` → `ADMIN` → `STUDENT`
+- 🔑 Secure password hashing with bcrypt
+- 🚀 SaaS onboarding flow: Super Admin → creates Tenant → creates Tenant Admin
+- 📊 Dynamic JSON-driven dashboard with reusable Signal-based Angular widgets
+- 🎭 Tenant impersonation support for super admins
+- 💳 Subscription-ready SaaS architecture
+
+`Angular` `Node.js` `Express` `Sequelize` `PostgreSQL` `Capacitor`
 
 ---
 
