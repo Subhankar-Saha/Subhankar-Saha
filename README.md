@@ -57,7 +57,7 @@
 
 ---
 
-### 📚 [PDAcademy – Multi-Tenant Learning Platform](https://pdacademy.in)
+### 📚 [PDAcademy – Multi-Tenant Learning Platform](https://pdacademy.co.in)
 > Subscription-based exam platform with dynamic exam rendering, tenant management & mobile app
 >
 > `Angular` `Node.js` `Sequelize` `PostgreSQL` `Capacitor`
